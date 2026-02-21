@@ -1,0 +1,5 @@
+{
+  "name": "DAP Policy Smart Assistant",
+  "description": "An assistant to answer employee questions about internal policies based on uploaded PDFs.",
+  "requestFramePermissions": []
+}
